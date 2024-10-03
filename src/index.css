@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Playwrite+DE+Grund:wght@100..400&display=swap');
+*{
+    font-family: "Playwrite DE Grund", cursive;
+}
+nav a {
+    text-decoration: none;
+    margin-right:25px;
+    font-size:x-large;
+    color: beige;
+}
+.navbar-collapse {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+.icon {
+    font-size: 50px;
+    
+}
